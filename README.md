@@ -1,4 +1,4 @@
-# Sistema de reservas — Asesoría IA con Ivan AlsiGo
+# Sistema de reservas — Asesoría IA con Estela Neue
 
 Aplicación web de reservas al estilo Calendly. El cliente elige un día en el calendario mensual, después una hora libre, completa su nombre y email y confirma la cita.
 
